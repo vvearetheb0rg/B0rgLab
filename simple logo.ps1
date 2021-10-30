@@ -8,3 +8,5 @@ $dersys_logo = @'
 
 $dersys_logo | write-host -ForegroundColor red
 Write-Host ">> Logscraper - Version 3.4" -ForegroundColor Yellow -BackgroundColor Black
+
+# wells this is a test
